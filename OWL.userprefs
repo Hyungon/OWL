@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TestProject1/Assets/Script/Thief.cs">
+    <Files>
+      <File FileName="../TestProject1/Assets/Script/Thief.cs" Line="14" Column="17" />
+      <File FileName="Assets/Script/Bird1.cs" Line="49" Column="38" />
+      <File FileName="../TestProject1/Assets/Script/Map.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
